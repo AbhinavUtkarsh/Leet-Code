@@ -1,5 +1,5 @@
 # [Leet Code](https://leetcode.com/)
-![Leet Logo](https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png)
+![Leet Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSacJ_qSVxai9eWLcsA4A6ljeNKjjelG-M9Rwg6X3TbKl6EEErh)
 
 ## Description
 
